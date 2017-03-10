@@ -1,0 +1,9 @@
+function circular_primes(n)
+if  ~isscalar(n)||n =~floor(n)
+    return
+end
+
+
+
+
+end
